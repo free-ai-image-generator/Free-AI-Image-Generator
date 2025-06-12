@@ -4,6 +4,8 @@ Welcome to the most powerful **Free AI Image Generator** platform! Transform you
 
 🌐 **Website**: [https://ai-image-generator.co](https://ai-image-generator.co)
 
+![Free AI Image Generator](https://cdn.ai-image-generator.co/imgs/ph-hero-img.jpg)
+
 ![Free AI Image Generator Sample](https://cdn.ai-image-generator.co/imgs/sample/ai-image-generator-sample1.jpg)
 
 ## 🚀 Getting Started (No Signup Required!)
@@ -39,8 +41,6 @@ Welcome to the most powerful **Free AI Image Generator** platform! Transform you
 #### Step 4: Use Your Images
 
 - Use for personal or commercial projects
-- No attribution required
-- Full ownership rights included
 
 ## 🎨 Available Image Styles
 
@@ -61,7 +61,7 @@ Our AI Image Generator supports diverse artistic styles:
 
 Access industry-leading AI models in one platform:
 
-- OpenAI DALL-E
+- OpenAI GPT-4o
 - Stable Diffusion variants
 - Google Gemini
 - Flux models
@@ -75,8 +75,7 @@ Access industry-leading AI models in one platform:
 - **Image-to-Image**: Transform existing images
 - **Style Transfer**: Apply artistic styles to images
 - **Batch Generation**: Create multiple variations
-- **Background Removal**: Clean backgrounds automatically
-- **Face Enhancement**: Improve portrait quality
+- **More**
 
 ### ⚡ Instant Results
 
@@ -158,12 +157,11 @@ Access industry-leading AI models in one platform:
 
 - **Full ownership** of generated images
 - **Commercial use allowed**
-- **No attribution required**
 - **Ethical guidelines** apply (no harmful content)
 
 ## 📞 Support & Contact
 
-- **Email**: [support contact from website]
+- **Email**: support@ai-image-generator.co
 - **Live chat** available on the platform
 - **FAQ section** covers common questions
 - **Priority support** for paid plan users
