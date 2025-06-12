@@ -4,7 +4,7 @@ Welcome to the most powerful **Free AI Image Generator** platform! Transform you
 
 🌐 **Website**: [https://ai-image-generator.co](https://ai-image-generator.co)
 
-[A blue bird](https://cdn.ai-image-generator.co/imgs/sample/ai-image-generator-sample1.jpg)
+![Free AI Image Generator Sample](https://cdn.ai-image-generator.co/imgs/sample/ai-image-generator-sample1.jpg)
 
 ## 🚀 Getting Started (No Signup Required!)
 
